@@ -19,3 +19,5 @@ A basic calculator built using HTML, CSS, and JavaScript.
 - DOM manipulation
 - Conditional logic
 - Taking user input
+  
+  ##Live Demo:-https://linakhairnar.github.io/switch-calculator/
